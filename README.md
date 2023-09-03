@@ -1,9 +1,12 @@
 # React-RouterV6.4
 A guide for using React Router V6.4
 How to Run:
+
 In Terminal :
+
 1. npm install
 2. npm start
+
 React Router:
   ->It is used to Route to multiple pages in our React Application.
   ->It makes client and Server Side Routing easy.
